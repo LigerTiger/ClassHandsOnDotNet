@@ -1,0 +1,14 @@
+D:\CAPGEMINI\Training-HandsOn\C#\Day3\Day3\HandsOnStrings\bin\Debug\HandsOnStrings.exe.config
+D:\CAPGEMINI\Training-HandsOn\C#\Day3\Day3\HandsOnStrings\bin\Debug\HandsOnStrings.exe
+D:\CAPGEMINI\Training-HandsOn\C#\Day3\Day3\HandsOnStrings\bin\Debug\HandsOnStrings.pdb
+D:\CAPGEMINI\Training-HandsOn\C#\Day3\Day3\HandsOnStrings\obj\Debug\HandsOnStrings.csprojAssemblyReference.cache
+D:\CAPGEMINI\Training-HandsOn\C#\Day3\Day3\HandsOnStrings\obj\Debug\HandsOnStrings.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\Training-HandsOn\C#\Day3\Day3\HandsOnStrings\obj\Debug\HandsOnStrings.exe
+D:\CAPGEMINI\Training-HandsOn\C#\Day3\Day3\HandsOnStrings\obj\Debug\HandsOnStrings.pdb
+D:\Batch-11\C#\HandsOn\HandsOnStrings\bin\Debug\HandsOnStrings.exe.config
+D:\Batch-11\C#\HandsOn\HandsOnStrings\bin\Debug\HandsOnStrings.exe
+D:\Batch-11\C#\HandsOn\HandsOnStrings\bin\Debug\HandsOnStrings.pdb
+D:\Batch-11\C#\HandsOn\HandsOnStrings\obj\Debug\HandsOnStrings.csproj.AssemblyReference.cache
+D:\Batch-11\C#\HandsOn\HandsOnStrings\obj\Debug\HandsOnStrings.csproj.CoreCompileInputs.cache
+D:\Batch-11\C#\HandsOn\HandsOnStrings\obj\Debug\HandsOnStrings.exe
+D:\Batch-11\C#\HandsOn\HandsOnStrings\obj\Debug\HandsOnStrings.pdb

@@ -1,0 +1,7 @@
+D:\CAPGEMINI\Training-HandsOn\C#\Day3\Day3\Day3.HandsOnArrays\bin\Debug\Day3.HandsOnArrays.exe.config
+D:\CAPGEMINI\Training-HandsOn\C#\Day3\Day3\Day3.HandsOnArrays\bin\Debug\Day3.HandsOnArrays.exe
+D:\CAPGEMINI\Training-HandsOn\C#\Day3\Day3\Day3.HandsOnArrays\bin\Debug\Day3.HandsOnArrays.pdb
+D:\CAPGEMINI\Training-HandsOn\C#\Day3\Day3\Day3.HandsOnArrays\obj\Debug\Day3.HandsOnArrays.csprojAssemblyReference.cache
+D:\CAPGEMINI\Training-HandsOn\C#\Day3\Day3\Day3.HandsOnArrays\obj\Debug\Day3.HandsOnArrays.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\Training-HandsOn\C#\Day3\Day3\Day3.HandsOnArrays\obj\Debug\Day3.HandsOnArrays.exe
+D:\CAPGEMINI\Training-HandsOn\C#\Day3\Day3\Day3.HandsOnArrays\obj\Debug\Day3.HandsOnArrays.pdb

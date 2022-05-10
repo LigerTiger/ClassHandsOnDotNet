@@ -1,0 +1,16 @@
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\bin\Debug\net5.0\HandsOnStaticMembers.exe
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\bin\Debug\net5.0\HandsOnStaticMembers.deps.json
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\bin\Debug\net5.0\HandsOnStaticMembers.runtimeconfig.json
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\bin\Debug\net5.0\HandsOnStaticMembers.runtimeconfig.dev.json
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\bin\Debug\net5.0\HandsOnStaticMembers.dll
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\bin\Debug\net5.0\ref\HandsOnStaticMembers.dll
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\bin\Debug\net5.0\HandsOnStaticMembers.pdb
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\obj\Debug\net5.0\HandsOnStaticMembers.csproj.AssemblyReference.cache
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\obj\Debug\net5.0\HandsOnStaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\obj\Debug\net5.0\HandsOnStaticMembers.AssemblyInfoInputs.cache
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\obj\Debug\net5.0\HandsOnStaticMembers.AssemblyInfo.cs
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\obj\Debug\net5.0\HandsOnStaticMembers.csproj.CoreCompileInputs.cache
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\obj\Debug\net5.0\HandsOnStaticMembers.dll
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\obj\Debug\net5.0\ref\HandsOnStaticMembers.dll
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\obj\Debug\net5.0\HandsOnStaticMembers.pdb
+D:\Batch-11\C#\HandsOn\HandsOnStaticMembers\HandsOnStaticMembers\obj\Debug\net5.0\HandsOnStaticMembers.genruntimeconfig.cache

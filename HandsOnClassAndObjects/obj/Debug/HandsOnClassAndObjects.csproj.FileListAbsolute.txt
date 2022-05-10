@@ -1,0 +1,7 @@
+D:\Batch-11\C#\HandsOn\HandsOnClassAndObjects\bin\Debug\HandsOnClassAndObjects.exe.config
+D:\Batch-11\C#\HandsOn\HandsOnClassAndObjects\bin\Debug\HandsOnClassAndObjects.exe
+D:\Batch-11\C#\HandsOn\HandsOnClassAndObjects\bin\Debug\HandsOnClassAndObjects.pdb
+D:\Batch-11\C#\HandsOn\HandsOnClassAndObjects\obj\Debug\HandsOnClassAndObjects.csproj.AssemblyReference.cache
+D:\Batch-11\C#\HandsOn\HandsOnClassAndObjects\obj\Debug\HandsOnClassAndObjects.csproj.CoreCompileInputs.cache
+D:\Batch-11\C#\HandsOn\HandsOnClassAndObjects\obj\Debug\HandsOnClassAndObjects.exe
+D:\Batch-11\C#\HandsOn\HandsOnClassAndObjects\obj\Debug\HandsOnClassAndObjects.pdb

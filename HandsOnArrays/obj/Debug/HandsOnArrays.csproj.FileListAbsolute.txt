@@ -1,0 +1,7 @@
+D:\Batch-11\C#\HandsOn\HandsOnArrays\bin\Debug\Day3.HandsOnArrays.exe.config
+D:\Batch-11\C#\HandsOn\HandsOnArrays\bin\Debug\Day3.HandsOnArrays.exe
+D:\Batch-11\C#\HandsOn\HandsOnArrays\bin\Debug\Day3.HandsOnArrays.pdb
+D:\Batch-11\C#\HandsOn\HandsOnArrays\obj\Debug\HandsOnArrays.csproj.AssemblyReference.cache
+D:\Batch-11\C#\HandsOn\HandsOnArrays\obj\Debug\HandsOnArrays.csproj.CoreCompileInputs.cache
+D:\Batch-11\C#\HandsOn\HandsOnArrays\obj\Debug\Day3.HandsOnArrays.exe
+D:\Batch-11\C#\HandsOn\HandsOnArrays\obj\Debug\Day3.HandsOnArrays.pdb

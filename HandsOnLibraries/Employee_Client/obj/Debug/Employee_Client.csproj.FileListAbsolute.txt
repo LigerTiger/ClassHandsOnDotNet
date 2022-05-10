@@ -1,0 +1,10 @@
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\Employee_Client\bin\Debug\Employee_Client.exe.config
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\Employee_Client\bin\Debug\Employee_Client.exe
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\Employee_Client\bin\Debug\Employee_Client.pdb
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\Employee_Client\bin\Debug\EmployeeService.dll
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\Employee_Client\bin\Debug\EmployeeService.pdb
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\Employee_Client\obj\Debug\Employee_Client.csproj.AssemblyReference.cache
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\Employee_Client\obj\Debug\Employee_Client.csproj.CoreCompileInputs.cache
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\Employee_Client\obj\Debug\Employee_Client.csproj.CopyComplete
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\Employee_Client\obj\Debug\Employee_Client.exe
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\Employee_Client\obj\Debug\Employee_Client.pdb

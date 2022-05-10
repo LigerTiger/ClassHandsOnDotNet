@@ -1,0 +1,8 @@
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.exe.config
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.exe
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.pdb
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.csproj.AssemblyReference.cache
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.csproj.SuggestedBindingRedirects.cache
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.csproj.CoreCompileInputs.cache
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.exe
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.pdb

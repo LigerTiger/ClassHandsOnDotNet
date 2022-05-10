@@ -1,0 +1,6 @@
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\EmployeeService\bin\Debug\EmployeeService.dll
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\EmployeeService\bin\Debug\EmployeeService.pdb
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\EmployeeService\obj\Debug\EmployeeService.csproj.AssemblyReference.cache
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\EmployeeService\obj\Debug\EmployeeService.dll
+D:\Batch-11\C#\HandsOn\HandsOnLibraries\EmployeeService\obj\Debug\EmployeeService.pdb

@@ -1,0 +1,7 @@
+D:\Batch-11\C#\HandsOn\HandsOnTypeConversion\bin\Debug\HandsOnTypeConversion.exe.config
+D:\Batch-11\C#\HandsOn\HandsOnTypeConversion\bin\Debug\HandsOnTypeConversion.exe
+D:\Batch-11\C#\HandsOn\HandsOnTypeConversion\bin\Debug\HandsOnTypeConversion.pdb
+D:\Batch-11\C#\HandsOn\HandsOnTypeConversion\obj\Debug\HandsOnTypeConversion.csproj.AssemblyReference.cache
+D:\Batch-11\C#\HandsOn\HandsOnTypeConversion\obj\Debug\HandsOnTypeConversion.csproj.CoreCompileInputs.cache
+D:\Batch-11\C#\HandsOn\HandsOnTypeConversion\obj\Debug\HandsOnTypeConversion.exe
+D:\Batch-11\C#\HandsOn\HandsOnTypeConversion\obj\Debug\HandsOnTypeConversion.pdb

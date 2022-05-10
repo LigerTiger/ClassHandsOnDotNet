@@ -1,0 +1,7 @@
+D:\CAPGEMINI\Training-HandsOn\Day2\Day2\Day2.HandsOnConditionalStatements\bin\Debug\Day2.HandsOnConditionalStatements.exe.config
+D:\CAPGEMINI\Training-HandsOn\Day2\Day2\Day2.HandsOnConditionalStatements\bin\Debug\Day2.HandsOnConditionalStatements.exe
+D:\CAPGEMINI\Training-HandsOn\Day2\Day2\Day2.HandsOnConditionalStatements\bin\Debug\Day2.HandsOnConditionalStatements.pdb
+D:\CAPGEMINI\Training-HandsOn\Day2\Day2\Day2.HandsOnConditionalStatements\obj\Debug\Day2.HandsOnConditionalStatements.csprojAssemblyReference.cache
+D:\CAPGEMINI\Training-HandsOn\Day2\Day2\Day2.HandsOnConditionalStatements\obj\Debug\Day2.HandsOnConditionalStatements.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\Training-HandsOn\Day2\Day2\Day2.HandsOnConditionalStatements\obj\Debug\Day2.HandsOnConditionalStatements.exe
+D:\CAPGEMINI\Training-HandsOn\Day2\Day2\Day2.HandsOnConditionalStatements\obj\Debug\Day2.HandsOnConditionalStatements.pdb

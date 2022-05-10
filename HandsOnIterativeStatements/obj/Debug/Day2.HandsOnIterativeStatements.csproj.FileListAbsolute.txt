@@ -1,0 +1,7 @@
+D:\CAPGEMINI\Training-HandsOn\Day2\Day2\Day2.HandsOnIterativeStatements\bin\Debug\Day2.HandsOnIterativeStatements.exe.config
+D:\CAPGEMINI\Training-HandsOn\Day2\Day2\Day2.HandsOnIterativeStatements\bin\Debug\Day2.HandsOnIterativeStatements.exe
+D:\CAPGEMINI\Training-HandsOn\Day2\Day2\Day2.HandsOnIterativeStatements\bin\Debug\Day2.HandsOnIterativeStatements.pdb
+D:\CAPGEMINI\Training-HandsOn\Day2\Day2\Day2.HandsOnIterativeStatements\obj\Debug\Day2.HandsOnIterativeStatements.csprojAssemblyReference.cache
+D:\CAPGEMINI\Training-HandsOn\Day2\Day2\Day2.HandsOnIterativeStatements\obj\Debug\Day2.HandsOnIterativeStatements.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\Training-HandsOn\Day2\Day2\Day2.HandsOnIterativeStatements\obj\Debug\Day2.HandsOnIterativeStatements.exe
+D:\CAPGEMINI\Training-HandsOn\Day2\Day2\Day2.HandsOnIterativeStatements\obj\Debug\Day2.HandsOnIterativeStatements.pdb

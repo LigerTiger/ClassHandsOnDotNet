@@ -1,0 +1,16 @@
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\bin\Debug\net5.0\HandsOnDelegates.exe
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\bin\Debug\net5.0\HandsOnDelegates.deps.json
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\bin\Debug\net5.0\HandsOnDelegates.runtimeconfig.json
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\bin\Debug\net5.0\HandsOnDelegates.runtimeconfig.dev.json
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\bin\Debug\net5.0\HandsOnDelegates.dll
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\bin\Debug\net5.0\ref\HandsOnDelegates.dll
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\bin\Debug\net5.0\HandsOnDelegates.pdb
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\obj\Debug\net5.0\HandsOnDelegates.csproj.AssemblyReference.cache
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\obj\Debug\net5.0\HandsOnDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\obj\Debug\net5.0\HandsOnDelegates.AssemblyInfoInputs.cache
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\obj\Debug\net5.0\HandsOnDelegates.AssemblyInfo.cs
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\obj\Debug\net5.0\HandsOnDelegates.csproj.CoreCompileInputs.cache
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\obj\Debug\net5.0\HandsOnDelegates.dll
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\obj\Debug\net5.0\ref\HandsOnDelegates.dll
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\obj\Debug\net5.0\HandsOnDelegates.pdb
+D:\Batch-11\C#\HandsOn\HandsOnDelegates\HandsOnDelegates\obj\Debug\net5.0\HandsOnDelegates.genruntimeconfig.cache

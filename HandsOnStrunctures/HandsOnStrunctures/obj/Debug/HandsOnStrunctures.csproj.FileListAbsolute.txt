@@ -1,0 +1,7 @@
+D:\Batch-11\C#\HandsOn\HandsOnStrunctures\HandsOnStrunctures\bin\Debug\HandsOnStrunctures.exe.config
+D:\Batch-11\C#\HandsOn\HandsOnStrunctures\HandsOnStrunctures\bin\Debug\HandsOnStrunctures.exe
+D:\Batch-11\C#\HandsOn\HandsOnStrunctures\HandsOnStrunctures\bin\Debug\HandsOnStrunctures.pdb
+D:\Batch-11\C#\HandsOn\HandsOnStrunctures\HandsOnStrunctures\obj\Debug\HandsOnStrunctures.csproj.AssemblyReference.cache
+D:\Batch-11\C#\HandsOn\HandsOnStrunctures\HandsOnStrunctures\obj\Debug\HandsOnStrunctures.csproj.CoreCompileInputs.cache
+D:\Batch-11\C#\HandsOn\HandsOnStrunctures\HandsOnStrunctures\obj\Debug\HandsOnStrunctures.exe
+D:\Batch-11\C#\HandsOn\HandsOnStrunctures\HandsOnStrunctures\obj\Debug\HandsOnStrunctures.pdb

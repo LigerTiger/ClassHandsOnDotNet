@@ -1,0 +1,7 @@
+D:\Batch-11\C#\HandsOn\HandsOnDoubts\bin\Debug\HandsOnDoubts.exe.config
+D:\Batch-11\C#\HandsOn\HandsOnDoubts\bin\Debug\HandsOnDoubts.exe
+D:\Batch-11\C#\HandsOn\HandsOnDoubts\bin\Debug\HandsOnDoubts.pdb
+D:\Batch-11\C#\HandsOn\HandsOnDoubts\obj\Debug\HandsOnDoubts.csproj.AssemblyReference.cache
+D:\Batch-11\C#\HandsOn\HandsOnDoubts\obj\Debug\HandsOnDoubts.csproj.CoreCompileInputs.cache
+D:\Batch-11\C#\HandsOn\HandsOnDoubts\obj\Debug\HandsOnDoubts.exe
+D:\Batch-11\C#\HandsOn\HandsOnDoubts\obj\Debug\HandsOnDoubts.pdb
